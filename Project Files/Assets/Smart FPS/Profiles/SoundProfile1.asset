@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a73376148eb933489b98e7a68335d35, type: 3}
+  m_Name: SoundProfile1
+  m_EditorClassIdentifier: 
+  hurtSounds:
+  - {fileID: 8300000, guid: d2672711e48687b459debe45f2c873d7, type: 3}
+  - {fileID: 8300000, guid: 1f0fb5469e83a844f862ed6feead32b5, type: 3}
+  - {fileID: 8300000, guid: ba7c3301729c58542b6ef593ce5b8170, type: 3}
+  - {fileID: 8300000, guid: eee513474d3eda64f888eb0a96d9155d, type: 3}
+  - {fileID: 8300000, guid: f9ea4114e21eace448540e96dd5f5ab8, type: 3}
+  dieSounds:
+  - {fileID: 8300000, guid: 1ea484aeb9f7dbd46a51b347d9d3776a, type: 3}
+  healthSound: {fileID: 8300000, guid: 0c475005b170dce4fa8178a3b9956bd5, type: 3}
+  heartbeatSound: {fileID: 8300000, guid: 97f2a28b3176ad44f8bff726d4be01f0, type: 3}
+  breathSound: {fileID: 8300000, guid: ca0171e317868fc46a558357af2b1b3d, type: 3}
+  jumpLandSound: {fileID: 8300000, guid: 1bc43871b657b8a4f9f20767e3e1a323, type: 3}
+  jumpStartSound: {fileID: 8300000, guid: 092710ef8d1b3b74580b3a7cafffc162, type: 3}
+  slideSound: {fileID: 8300000, guid: a934ba7452d7170448dcc6f93449fc5b, type: 3}

@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 7f6aede63eb7e824ca3f243dd3de4851
+timeCreated: 1524064740
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: //RootNode
+    100006: Glock19_MainBone
+    100008: Glock19_Mesh
+    100010: Hand_mesh_L
+    100012: Hand_mesh_R
+    100014: L_Clavicle
+    100016: L_Hand
+    100018: L_index1
+    100020: L_index2
+    100022: L_index3
+    100024: L_LowerArm_Twist1
+    100026: L_LowerArm_Twist2
+    100028: L_LowerArm_Twist3
+    100030: L_middle1
+    100032: L_middle2
+    100034: L_middle3
+    100036: L_pinky1
+    100038: L_pinky2
+    100040: L_pinky3
+    100042: L_pinky4
+    100044: L_ring1
+    100046: L_ring2
+    100048: L_ring3
+    100050: L_thumb1
+    100052: L_thumb2
+    100054: L_thumb3
+    100056: L_UpperArm
+    100058: Mag
+    100060: R_Clavicle
+    100062: R_Hand
+    100064: R_index1
+    100066: R_index2
+    100068: R_index3
+    100070: R_LowerArm_Twist1
+    100072: R_LowerArm_Twist2
+    100074: R_LowerArm_Twist3
+    100076: R_middle1
+    100078: R_middle2
+    100080: R_middle3
+    100082: R_pinky1
+    100084: R_pinky2
+    100086: R_pinky3
+    100088: R_pinky4
+    100090: R_ring1
+    100092: R_ring2
+    100094: R_ring3
+    100096: R_thumb1
+    100098: R_thumb2
+    100100: R_thumb3
+    100102: R_UpperArm
+    100104: Root
+    100106: Slide
+    100108: Triger
+    400000: Camera001
+    400002: Camera001.Target
+    400004: //RootNode
+    400006: Glock19_MainBone
+    400008: Glock19_Mesh
+    400010: Hand_mesh_L
+    400012: Hand_mesh_R
+    400014: L_Clavicle
+    400016: L_Hand
+    400018: L_index1
+    400020: L_index2
+    400022: L_index3
+    400024: L_LowerArm_Twist1
+    400026: L_LowerArm_Twist2
+    400028: L_LowerArm_Twist3
+    400030: L_middle1
+    400032: L_middle2
+    400034: L_middle3
+    400036: L_pinky1
+    400038: L_pinky2
+    400040: L_pinky3
+    400042: L_pinky4
+    400044: L_ring1
+    400046: L_ring2
+    400048: L_ring3
+    400050: L_thumb1
+    400052: L_thumb2
+    400054: L_thumb3
+    400056: L_UpperArm
+    400058: Mag
+    400060: R_Clavicle
+    400062: R_Hand
+    400064: R_index1
+    400066: R_index2
+    400068: R_index3
+    400070: R_LowerArm_Twist1
+    400072: R_LowerArm_Twist2
+    400074: R_LowerArm_Twist3
+    400076: R_middle1
+    400078: R_middle2
+    400080: R_middle3
+    400082: R_pinky1
+    400084: R_pinky2
+    400086: R_pinky3
+    400088: R_pinky4
+    400090: R_ring1
+    400092: R_ring2
+    400094: R_ring3
+    400096: R_thumb1
+    400098: R_thumb2
+    400100: R_thumb3
+    400102: R_UpperArm
+    400104: Root
+    400106: Slide
+    400108: Triger
+    4300000: Hand_mesh_L
+    4300002: Hand_mesh_R
+    4300004: Glock19_Mesh
+    7400000: default
+    7400002: Shoot
+    7400004: Draw
+    7400006: walk
+    7400008: run
+    7400010: reload
+    7400012: idle
+    9500000: //RootNode
+    13700000: Glock19_Mesh
+    13700002: Hand_mesh_L
+    13700004: Hand_mesh_R
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Shoot
+      firstFrame: 10
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Draw
+      takeName: Draw
+      firstFrame: 40
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: 110
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: reload
+      takeName: reload
+      firstFrame: 145
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 220
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
